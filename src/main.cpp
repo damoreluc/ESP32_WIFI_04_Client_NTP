@@ -29,10 +29,9 @@
 #include <HWCONFIG/hwConfig.h>
 #include <WiFi.h>
 #include <WIFI/wifi_functions.h>
-#include <LOCALTIME/localTime.h>
 
 // altre librerie richieste dalla applicazione specifica
-
+#include <LOCALTIME/localTime.h>
 
 void setup()
 {
